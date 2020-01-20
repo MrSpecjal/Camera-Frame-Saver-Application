@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraSaver", "CameraSaver\CameraSaver.csproj", "{B777B674-6D75-428C-A15B-CDBF64C19674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B777B674-6D75-428C-A15B-CDBF64C19674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B777B674-6D75-428C-A15B-CDBF64C19674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B777B674-6D75-428C-A15B-CDBF64C19674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B777B674-6D75-428C-A15B-CDBF64C19674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622604C7-BDC0-4759-9F37-66FDA31D1FF7}
+	EndGlobalSection
+EndGlobal
